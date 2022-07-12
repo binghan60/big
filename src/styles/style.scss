@@ -1,21 +1,8 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 body {
   font-family: "Noto Sans TC", sans-serif;
   font-family: "Zen Maru Gothic", sans-serif;
 }
 
-a {
-  text-decoration: none;
-}
-
-ul {
-  list-style: none;
-}
-
 @import "./nav";
-@import "./footer"
+@import "./footer" ;
+@import "./index";
