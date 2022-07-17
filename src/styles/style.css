@@ -31,4 +31,14 @@ footer .icon li {
 footer .footerp {
   height: 40px;
   background-color: #5a5a4c;
+}
+
+.position-relative .bingFirstText {
+  font-size: 5rem;
+}
+.position-relative .bingslogan {
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 645px;
+  color: #fff;
 }/*# sourceMappingURL=style.css.map */
