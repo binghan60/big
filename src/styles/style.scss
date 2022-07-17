@@ -2,8 +2,21 @@ body {
   font-family: "Noto Sans TC", sans-serif;
   font-family: "Zen Maru Gothic", sans-serif;
 }
+.bingTittle {
+  font-size: 3rem;
+  color: #616153;
+  font-weight: 700;
+}
+
+.bingText {
+  font-size: 1rem;
+  color: #616153;
+  line-height: 2rem;
+}
+
 
 @import "./nav";
-@import "./footer" ;
+@import "./footer";
 @import "./index";
-@import "./pink_button"
+@import "./pink_button";
+@import "./story"

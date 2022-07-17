@@ -6,7 +6,7 @@ const About = () => {
       <div className="position-relative">
         <img className="w-100" src="./images/index_img.png" alt="" />
         <div className="position-absolute bingslogan">
-          <h2 className="bingFirstText mb-5 pb-4">探索最適合你的甜甜圈</h2>
+          <h1 className="bingFirstText mb-5 pb-4">探索最適合你的甜甜圈</h1>
           <p className="fs-3 mt-5 text-center">
             好不容易擠進門市，看到琳瑯滿目的甜甜圈擺在眼前
           </p>
