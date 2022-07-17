@@ -1,13 +1,13 @@
 import React from "react";
 import Nav from "./components/Nav";
 import Footer from "./components/Footer";
-import Index from "./pages/Index";
+import About from "./pages/About";
 
 const App = () => {
   return (
     <>
       <Nav />
-      <Index />
+      <About />
       <Footer />
     </>
   );
